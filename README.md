@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakethvarma397
-- 👀 I’m interested in Frontned development
+- 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning React library
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
