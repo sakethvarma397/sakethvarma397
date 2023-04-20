@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saketh Varma</h1>
-<h3 align="center">A Frontend Engineer from India, and an aspiring Digital nomad</h3>
+<h3 align="center">A Frontend Engineer and an aspiring Digital nomad from India</h3>
 <img align="right" width=400 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
